@@ -1,2 +1,9 @@
 nano data.txt
 nano commands.txt
+git init
+git add
+git status
+git commit -m "commit.txt"
+git status
+git remote add origin https://github.com/SarthakGupta0007/loc_git.git
+git push origin master
